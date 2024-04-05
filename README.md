@@ -3,7 +3,8 @@
 ### About bunker-scraper
 
 Bunker-Scraper is a quality-of-life script that should make downloading content (that excludes everyting but videos and images) from bunkr sites way easier. This script was coded by me in a late-night-session so it's neither user friendly, nor easy to understand (probably).
-**Disclaimer**: bunkr sites is a file sharing platform that is also known to host adult or illegaly aquired content. Do not use that script to do anything stuid!
+
+**Disclaimer**: bunkr sites is a file sharing platform that is also known to host adult or illegaly acquired content. Do not use that script to do anything stuid!
 
 ### How to use
 
