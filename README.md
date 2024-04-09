@@ -15,8 +15,8 @@ Bunker-Scraper is a quality-of-life script that should make downloading content 
 | attribute    | function                                                                                                                                                                                     |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | download dir | The download directory is simply the path to where you awant to save your downloads (string)                                                                                                 |
-| start at     | Specifies at which album entry you want to start downloading. Useful if your download failed and you want to continue at a certin point. Does **not** default to any value and has to be set |
-| album url    | The album url is the url that you accessed the bunkr album from in your browser                                                                                                              |
+| start at     | Specifies at which album entry you want to start downloading. Useful if your download failed and you want to continue at a certin point. Does **not** default to any value and has to be set (int >=0) |
+| album url    | The album url is the url that you accessed the bunkr album from in your browser (string)                                                                                                             |
 
 ### Requirements
 
